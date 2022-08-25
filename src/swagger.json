@@ -1,0 +1,11 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Ignite Trilha Node - Desafio #5",
+    "description": "Desafio #5 com o propósito de documentar a API com Swagger",
+    "version": "1.0.0",
+    "contact": {
+      "email": "juliolmuller@outlook.com"
+    }
+  }
+}
